@@ -35,7 +35,7 @@ function calculateDiscount(discount) {
 		promoField.value = '';
 		isDiscountCodeApply = true;
 	} else {
-		alert('Promo code ' + promoField.value + 'invalid or already applied');
+		alert('Promo code ' + promoField.value + ' invalid or already applied');
 		promoField.value = '';
 	}
 }
