@@ -1,0 +1,16 @@
+/* Google Font link  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+body {
+	font-family: 'Roboto Slab', serif;
+}
+
+/* mack details style  */
+.summary {
+	text-align: justify;
+}
+
+/* horizontal line style  */
+.line {
+	padding: 2px;
+}
